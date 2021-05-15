@@ -1,2 +1,2 @@
 # whitepaper
-whitepaper to cryptoasset "Blockcoin"
+whitepaper to cryptoasset "Blockoin"
